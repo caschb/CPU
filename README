@@ -1,0 +1,9 @@
+Este trabajo fue hecho por Christian Asch y Carlos Urena.
+
+Los archivos son: ALU.java, IR.java, PC.java, RAM.java, Registro.java, UC.java, instrucciones.txt
+
+Para compilar el programa se hace:
+javac UC.java
+
+Para correr el programa se hace:
+java UC <nombre del archivo con las instrucciones>
